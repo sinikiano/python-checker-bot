@@ -11,7 +11,8 @@
 - etc.
 
 ## Demo
-![](https://gfycat.com/favoritethosecrocodileskink)
+<!-- ![](https://gfycat.com/favoritethosecrocodileskink) -->
+<iframe src='https://gfycat.com/ifr/FavoriteThoseCrocodileskink' frameborder='0' scrolling='no' allowfullscreen width='640' height='403'></iframe>
 
 
 
@@ -108,7 +109,7 @@ python3 -m main.py
 - [@r0ld3x](https://www.github.com/r0ld3x)
 
 ## Support:
-    All Methods: [Here](https://euphemistic-neglect.000webhostapp.com/)
+- All Methods: [Here](https://euphemistic-neglect.000webhostapp.com/)
 
 
 ## License
