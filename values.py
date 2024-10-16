@@ -43,13 +43,13 @@ import bs4
 import json
 
 
-mongourl = 'MONGO_URI'
+mongourl = 'mongodb+srv://admin:<db_password>@cluster0.l7mbq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
 client = pymongo.MongoClient(mongourl,serverSelectionTimeoutMS=5000)
 maindb = client.bot['main']
 
-antidb = redis.Redis(host='REDIS_URI', port=REDIS_PASS, password='REDIS_PASS')
+antidb = redis.Redis(host='redis-13772.c253.us-central1-1.gce.redns.redis-cloud.com', port=13772, password='zAHjrFG7v5NVVXjs1Sm3vJwHUSlaFQ3x')
 
-BOT_USERNAME = 'BOT_USERNAME'
+BOT_USERNAME = 'Cc_check1'
 loggp = -735069168
 waste_cards = [1,2,7,8,9,0]
 
@@ -74,7 +74,7 @@ free_user = """<b>buy paid plan to use this gate hit /buy to see my premium plan
 
 
 # arr = [
-#     'http://copunwcs-rotate:zpxyewfj84cp@p.webshare.io:80/',
+#     'http://PBSN3KOG7P6T:E8RNYPSKKCLW@204.217.130.208:5433',
 #     'http://juigtril-rotate:7iwuusjuufgp@p.webshare.io:80/',
 #     'http://bfpiydpo-rotate:jommyvzkwcdl@p.webshare.io:80/',
 #     'http://vctalybl-rotate:9bs22acxfssz@p.webshare.io:80/',
